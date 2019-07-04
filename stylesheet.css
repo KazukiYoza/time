@@ -138,19 +138,22 @@
      left: -9999px;
      top: -9999px;
  }
+body{
+    font-family:'Noto Sans JP', sans-serif;
+}
 main{
     background-color: rgb(255, 233, 233);
 }
 
 h2{
-    font-size:18px;
+    font-size:20px;
     padding: 10px 0px;
     margin: 10px;
     border-bottom: solid 3px black;
 }
 p, ol{
     margin:10px;
-    font-size: 15px;
+    font-size: 17px;
 }
 span{
     margin-left: 10px;
