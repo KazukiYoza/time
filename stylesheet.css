@@ -138,6 +138,9 @@
      left: -9999px;
      top: -9999px;
  }
+main{
+    background-color: rgb(255, 233, 233);
+}
 
 h2{
     font-size:18px;
