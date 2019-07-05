@@ -194,7 +194,8 @@ main{
 }
 .hour255, .hour0_3, .hour3_5, .hour5_7,
 .hour7_9, .hour9_12, .lunchtime, .afternoon_snack,
-.hour13_18, .hour18_20, .hour20_22, .hour22_24, .bedtime{
+.hour13_18, .hour18_20, .hour20_22, .hour22_24, 
+.bedtime, .holiday{
     display: none;
 }
 footer{
